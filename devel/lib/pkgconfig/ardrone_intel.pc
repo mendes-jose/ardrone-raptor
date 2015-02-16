@@ -1,0 +1,8 @@
+prefix=/home/mendes/Dev/ardrone-raptor/devel
+
+Name: ardrone_intel
+Description: Description of ardrone_intel
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mendes/Dev/ardrone-raptor/devel/lib 
+Requires: 

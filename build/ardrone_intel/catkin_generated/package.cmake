@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "ardrone_intel")
+set(ardrone_intel_MAINTAINER "mendes <mendes@todo.todo>")
+set(ardrone_intel_DEPRECATED "")
+set(ardrone_intel_VERSION "0.0.0")
+set(ardrone_intel_BUILD_DEPENDS "ardrone_autonomy" "ardrone_tutorials")
+set(ardrone_intel_RUN_DEPENDS "ardrone_autonomy" "ardrone_tutorials")
+set(ardrone_intel_BUILDTOOL_DEPENDS "catkin")
