@@ -1,0 +1,6 @@
+/home/gandalf/Dev/ardrone-raptor/build/CMakeFiles/clean_test_results.dir
+/home/gandalf/Dev/ardrone-raptor/build/CMakeFiles/doxygen.dir
+/home/gandalf/Dev/ardrone-raptor/build/gtest/CMakeFiles/gtest.dir
+/home/gandalf/Dev/ardrone-raptor/build/gtest/CMakeFiles/gtest_main.dir
+/home/gandalf/Dev/ardrone-raptor/build/CMakeFiles/run_tests.dir
+/home/gandalf/Dev/ardrone-raptor/build/CMakeFiles/tests.dir

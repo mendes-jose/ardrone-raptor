@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/gandalf/Dev/ardrone-raptor/devel -DCMAKE_INSTALL_PREFIX=/home/gandalf/Dev/ardrone-raptor/install -G Unix Makefiles
