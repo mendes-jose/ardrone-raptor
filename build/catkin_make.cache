@@ -1,2 +1,2 @@
-ardrone_intel:ardrone_tutorials
--DCATKIN_DEVEL_PREFIX=/home/mendes/Dev/ardrone-raptor/devel -DCMAKE_INSTALL_PREFIX=/home/mendes/Dev/ardrone-raptor/install -G Unix Makefiles
+ardrone_intel
+-DCATKIN_DEVEL_PREFIX=/home/gandalf/Dev/ardrone-raptor/devel -DCMAKE_INSTALL_PREFIX=/home/gandalf/Dev/ardrone-raptor/install -G Unix Makefiles

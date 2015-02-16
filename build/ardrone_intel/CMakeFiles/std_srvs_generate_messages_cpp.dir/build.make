@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mendes/Dev/ardrone-raptor/src
+CMAKE_SOURCE_DIR = /home/gandalf/Dev/ardrone-raptor/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mendes/Dev/ardrone-raptor/build
+CMAKE_BINARY_DIR = /home/gandalf/Dev/ardrone-raptor/build
 
 # Utility rule file for std_srvs_generate_messages_cpp.
 
@@ -56,10 +56,10 @@ ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/build: std_srvs_gene
 .PHONY : ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/build
 
 ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/clean:
-	cd /home/mendes/Dev/ardrone-raptor/build/ardrone_intel && $(CMAKE_COMMAND) -P CMakeFiles/std_srvs_generate_messages_cpp.dir/cmake_clean.cmake
+	cd /home/gandalf/Dev/ardrone-raptor/build/ardrone_intel && $(CMAKE_COMMAND) -P CMakeFiles/std_srvs_generate_messages_cpp.dir/cmake_clean.cmake
 .PHONY : ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/clean
 
 ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/depend:
-	cd /home/mendes/Dev/ardrone-raptor/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mendes/Dev/ardrone-raptor/src /home/mendes/Dev/ardrone-raptor/src/ardrone_intel /home/mendes/Dev/ardrone-raptor/build /home/mendes/Dev/ardrone-raptor/build/ardrone_intel /home/mendes/Dev/ardrone-raptor/build/ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/gandalf/Dev/ardrone-raptor/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/gandalf/Dev/ardrone-raptor/src /home/gandalf/Dev/ardrone-raptor/src/ardrone_intel /home/gandalf/Dev/ardrone-raptor/build /home/gandalf/Dev/ardrone-raptor/build/ardrone_intel /home/gandalf/Dev/ardrone-raptor/build/ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ardrone_intel/CMakeFiles/std_srvs_generate_messages_cpp.dir/depend
 

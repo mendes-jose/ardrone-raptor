@@ -1,8 +1,8 @@
-# Install script for directory: /home/mendes/Dev/ardrone-raptor/src/ardrone_intel
+# Install script for directory: /home/gandalf/Dev/ardrone-raptor/src/ardrone_intel
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  SET(CMAKE_INSTALL_PREFIX "/home/mendes/Dev/ardrone-raptor/install")
+  SET(CMAKE_INSTALL_PREFIX "/home/gandalf/Dev/ardrone-raptor/install")
 ENDIF(NOT DEFINED CMAKE_INSTALL_PREFIX)
 STRING(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ IF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 ENDIF(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/mendes/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intel.pc")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/gandalf/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intel.pc")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ardrone_intel/cmake" TYPE FILE FILES
-    "/home/mendes/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intelConfig.cmake"
-    "/home/mendes/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intelConfig-version.cmake"
+    "/home/gandalf/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intelConfig.cmake"
+    "/home/gandalf/Dev/ardrone-raptor/build/ardrone_intel/catkin_generated/installspace/ardrone_intelConfig-version.cmake"
     )
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ardrone_intel" TYPE FILE FILES "/home/mendes/Dev/ardrone-raptor/src/ardrone_intel/package.xml")
+  FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ardrone_intel" TYPE FILE FILES "/home/gandalf/Dev/ardrone-raptor/src/ardrone_intel/package.xml")
 ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
 
