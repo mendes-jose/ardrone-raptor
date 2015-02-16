@@ -1,2 +1,2 @@
-# airdrone-raptor
-Move learning using Air Drone
+# ardrone-raptor
+Move learning using ArDrone

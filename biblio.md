@@ -1,4 +1,4 @@
-#Move learning using Air Drone
+#Move learning using ArDrone
 
 [Ros tutorials](http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics)
 
